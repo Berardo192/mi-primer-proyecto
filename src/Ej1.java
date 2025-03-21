@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ej1 {
     public static void main(String[] args) {
 
         System.out.println("por favor dijitar 3 numeros");
